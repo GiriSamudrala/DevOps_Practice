@@ -1,2 +1,3 @@
 Welcome to the DevOps and GIT world
 Easy way of commiting the code....
+Written after the Branch policies
